@@ -1,0 +1,17 @@
+
+.container {
+    text-align: center;
+    background-color: beige;
+    border: 3px sandybrown solid;
+    margin-top: 15px;
+}
+
+#holiday-buttons {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.holiday-giphy {
+    border: 5px burlywood solid;
+    margin: 3px;
+}
