@@ -42,7 +42,7 @@ function displayGIFs() {
 
         for (var i = 0; i < results.length; i++) {
             
-            var a = $("<div class='holiday'>");\
+            var a = $("<div class='holiday'>");
             var rating = results[i].rating;
             var pausedImg = results[i].images.fixed_height_still.url;
             var playImg = results[i].images.fixed_height.url;
